@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPLogFilter", "SPLogFilter\SPLogFilter.csproj", "{455762C1-CB5B-423C-9600-36EA2E75297D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{59EFC595-288B-4348-93C7-2EA49479823D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{455762C1-CB5B-423C-9600-36EA2E75297D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{455762C1-CB5B-423C-9600-36EA2E75297D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{455762C1-CB5B-423C-9600-36EA2E75297D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{455762C1-CB5B-423C-9600-36EA2E75297D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59EFC595-288B-4348-93C7-2EA49479823D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59EFC595-288B-4348-93C7-2EA49479823D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59EFC595-288B-4348-93C7-2EA49479823D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59EFC595-288B-4348-93C7-2EA49479823D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
