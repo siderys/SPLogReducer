@@ -1,0 +1,8 @@
+D:\Amazon Drive\GitHub\SPLogReducer\SPLogFilter\Test\bin\Debug\Test.exe.config
+D:\Amazon Drive\GitHub\SPLogReducer\SPLogFilter\Test\bin\Debug\Test.exe
+D:\Amazon Drive\GitHub\SPLogReducer\SPLogFilter\Test\bin\Debug\Test.pdb
+D:\Amazon Drive\GitHub\SPLogReducer\SPLogFilter\Test\bin\Debug\SPLogFilter.dll
+D:\Amazon Drive\GitHub\SPLogReducer\SPLogFilter\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Amazon Drive\GitHub\SPLogReducer\SPLogFilter\Test\obj\Debug\Test.exe
+D:\Amazon Drive\GitHub\SPLogReducer\SPLogFilter\Test\obj\Debug\Test.pdb
+D:\Amazon Drive\GitHub\SPLogReducer\SPLogFilter\Test\bin\Debug\SPLogFilter.pdb

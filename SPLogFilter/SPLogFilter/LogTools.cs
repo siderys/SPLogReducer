@@ -6,7 +6,7 @@ namespace SPLogFilter
 {
  public static class LogTools
     {
-       public enum LogColumn : int
+       public enum LogColumn 
         {
             Timestamp = 0, Process, Tid, Area, Category, EventId, Level, Message, Correlation
         }

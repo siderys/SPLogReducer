@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace SPLogFilter
 {
-    static class Splitter
+  public  static class Splitter
     {
 
         public static void Split(string logFilePath, IReadOnlyList<string> allLines, LogTools.LogColumn col, string splitFolder = "")

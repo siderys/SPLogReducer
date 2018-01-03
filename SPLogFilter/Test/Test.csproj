@@ -48,5 +48,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SPLogFilter\SPLogFilter.csproj">
+      <Project>{455762c1-cb5b-423c-9600-36ea2e75297d}</Project>
+      <Name>SPLogFilter</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
