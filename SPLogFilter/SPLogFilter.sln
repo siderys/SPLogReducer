@@ -8,9 +8,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{59EFC595-288B-4348-93C7-2EA49479823D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{17AE6BF7-EF1B-4EBE-AD91-4BAA7148B6FA}"
-	ProjectSection(SolutionItems) = preProject
-		Powershell\SPLogReducer.ps1 = Powershell\SPLogReducer.ps1
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -46,5 +46,8 @@
     <Compile Include="Splitter.cs" />
     <Compile Include="TextSearch.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="SPLogReducer.ps1" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
